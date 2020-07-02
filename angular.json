@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sz-webapp-ecommerce-sales"
+    }
+  },
+  "defaultProject": "sz-webapp-ecommerce-sales",
+  "cli": {
+    "analytics": false
+  }
 }
