@@ -25,7 +25,10 @@
     "component-selector": [
       true,
       "element",
-      "app",
+      [
+        "app",
+        "sze"
+      ],
       "kebab-case"
     ],
     "eofline": true,
